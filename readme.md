@@ -236,7 +236,7 @@ git reset –hard HEAD^^
 26. git remote add origin
 These commands make a bookmark which signifies that this particular remote refers to this URL. This remote will be used to pull any content from the directory and push our local content to the global server.
 ```
-git remote add origin https://github.com/madaan123/MyAlgorithms.git](https://github.com/hasnainhkhan/SpringBootBackend.git
+git remote add origin 
 ```
 
 27. git remote add <address>  
