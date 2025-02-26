@@ -83,25 +83,25 @@ Here is some commands How to use github
     ```
 
 **another one**
-1. git help
+1. **git help**
 Take help from the Git help section for different commands and other errors.  
 ```
 git help
 ```
 
-2. git config
+2. **git config**
 To set the basic configurations on Git like your name and email.
 ```
 git config
 ```
 
-  3. git config –-global user.name “ ”
+  3. **git config –-global user.name “ ”**
 Sets configuration values for your user name on git. 
 ```
 git config –-global user.name “Hasnain Haidar”
 ```
 
-4. git config –-global user.email ” “
+4.**git config –-global user.email**
 Sets configuration values for your user email on git.  
 ```
 git config –-global user.email hhk2170@gmail.com
@@ -236,7 +236,7 @@ git reset –hard HEAD^^
 26. git remote add origin
 These commands make a bookmark which signifies that this particular remote refers to this URL. This remote will be used to pull any content from the directory and push our local content to the global server.
 ```
-git remote add origin https://github.com/madaan123/MyAlgorithms.git
+git remote add origin https://github.com/madaan123/MyAlgorithms.git](https://github.com/hasnainhkhan/SpringBootBackend.git
 ```
 
 27. git remote add <address>  
