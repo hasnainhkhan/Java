@@ -1,18 +1,15 @@
-# 🚀 Project Name
+# 🚀 Git Commond
 
 ## 🌟 Description
-An exciting project that aims to solve [briefly describe problem or goal].
+Here is some commonds How to use github
 
-## 🎯 Features
-- 🔥 Feature 1
-- ⚡ Feature 2
-- 🚀 Feature 3
 
 ## 🛠️ Getting Started
 
 ### 📌 Prerequisites
 - Install Git
-- Install necessary dependencies
+- Install install gitbash
+- make and account on github.com
 
 ### 🏗️ Installation
 1. Clone the repository:
@@ -96,7 +93,7 @@ An exciting project that aims to solve [briefly describe problem or goal].
 Specify the license type if applicable.
 
 ## 📬 Contact
-- ✉️ Email: [Your Email]
-- 🐦 Twitter: [Your Twitter Handle]
-- 🌍 Website: [Your Website]
+- ✉️ Email:hhk2170@gmail.com
+- 🐦 linkedin:https://www.linkedin.com/in/hasnainhaidar/
+
 
