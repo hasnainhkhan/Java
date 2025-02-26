@@ -257,7 +257,7 @@ To push all the contents of our local repository that belong to the master branc
 git push -u origin master
 ```
 
-30. git clone https://github.com/madaan123/MyAlgorithms.git
+30. git clone https://github.com/hasnainhkhan/SpringBootBackend.git
 To clone or make a local copy of the global repository in your system 
 (git clone command downloads the repository and creates a remote named origin which can be checked by the command – git remote -v). 
 ```
