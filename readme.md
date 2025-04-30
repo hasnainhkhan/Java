@@ -4,7 +4,7 @@
 Here is some commands How to use github😢😢😢😢😢
 
 
-## 🛠️ Getting Started
+## 🛠️ Getting Started ##
 
 ### 📌 Prerequisites
 - Install Git
